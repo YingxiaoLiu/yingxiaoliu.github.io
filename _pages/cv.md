@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D in Civil and Environmental Engineering**
+  * Stanford University, 2023
+* **M.S. in Civil and Environmental Engineering**
+  * Stanford University, 2019
+* **B.Eng. in Civil Engineering**
+  * Minor in Computer Science
+  * University of Hong Kong, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09/2019 - Present: **Assistant Professor**
+  * Department of Civil and Environmental Engineering
+  * Henry M. Rowan College of Engineering
+  * Rowan University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2023 - 07/2025: **Postdoctoral Research Scientist**
+  * Department of Civil Engineering and Engineering Mechanics
+  * Columbia University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 09/2019 - 06/2023: **Research Fellow**
+  * Department of Civil and Environmental Engineering
+  * Stanford University
+
+* 06/2022 - 08/2022: **Machine Learning Engineer (Intern)**
+  * Chief Technology Office
+  * Ansys, Inc.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======

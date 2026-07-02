@@ -6,18 +6,25 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+  <div class="author__avatar" style="display: block; margin-left: auto; margin-right: auto; text-align: center;">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}"  fetchpriority="high" />
+      <img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" style="display: inline-block;" />
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}"  fetchpriority="high" />
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" fetchpriority="high" style="display: inline-block;" />
     {% endif %}
   </div>
 
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+  <!-- Paste this new block immediately below the avatar container to center the name -->
+  {% if author.name %}
+    <div style="text-align: center; width: 100%; display: block; clear: both; margin-top: 10px; font-size: 24px;">
+      <h3 class="author__name" style="display: inline-block; margin: 0;">{{ author.name }}</h3>
+    </div>
+  {% endif %}
+
+  <div class="author__content" style="text-align: center;">
+    <!--<h3 class="author__name" style="font-size: 24px; font-weight: bold;">{{ author.name }}</h3>-->
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio" style="font-size: 15px;">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
