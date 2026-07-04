@@ -23,7 +23,7 @@ repository               : "yingxiaoliu/yingxiaoliu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yingxiao.png"
   name             : "Yingxiao Liu"
   pronouns         : # example: "she/her"
   bio              : "Assistant Professor in Civil and Environmental Engineering"

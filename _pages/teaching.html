@@ -7,6 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+<h2 style="font-size: 28px;">Courses</h2>
+<hr />
+
+{% assign courses = site.teaching | where: "teaching_category", "courses" %}
+{% for post in courses reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% assign clinic_projects = site.teaching | where: "teaching_category", "clinic_projects" %}
+{% if clinic_projects.size > 0 %}
+  <h2 style="font-size: 28px;">Engineering Clinic Projects</h2>
+  <hr />
+
+  {% for post in clinic_projects reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}

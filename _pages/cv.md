@@ -59,4 +59,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Committee member, “AI in Civil Engineering Education” Initiative**
+  * Department of Civil and Environmental Engineering
+
+* **Member of the American Society of Civil Engineers (ASCE)**
+* **Member of the United States Universities Council on Geotechnical Education and Research (USUCGER)**
+* **Member of the Transforming Urban Underground Infrastructure Collaborative (TUUI)**
+
+
