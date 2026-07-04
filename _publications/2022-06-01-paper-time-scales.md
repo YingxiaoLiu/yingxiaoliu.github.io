@@ -6,7 +6,7 @@ permalink: /publication/2022-06-01-paper-time-scales
 hide_excerpt: true
 date: 2022-06-01
 venue: 'International Journal for Numerical and Analytical Methods in Geomechanics'
-citation: 'Liu, Y., & Borja, R. I. (2022). &quote;Time scales in the primary and secondary compression of soils.&quote; <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 46(8), 1383-1408.'
+citation: 'Liu, Y., & Borja, R. I. (2022). &quot;Time scales in the primary and secondary compression of soils.&quot; <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 46(8), 1383-1408.'
 ---
 
 <span style="font-weight: bold; font-size: 25px;">Abstract</span>

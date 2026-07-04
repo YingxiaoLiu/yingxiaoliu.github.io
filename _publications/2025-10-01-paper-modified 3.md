@@ -6,7 +6,7 @@ permalink: /publication/2025-10-01-paper-coupled_THM
 hide_excerpt: true
 date: 2025-10-01
 venue: 'International Journal for Numerical and Analytical Methods in Geomechanics'
-citation: 'Liu, Y., Sun, W., & Borja, R. I. (2025). &quote;Modified Effective Stress Theory for Rate‐Dependent Frozen Soil With Phase Transitions From Pre‐Melting Thin Film to Composite.&quote; <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 49(14), 3214-3231.'
+citation: 'Liu, Y., Sun, W., & Borja, R. I. (2025). &quot;Modified Effective Stress Theory for Rate‐Dependent Frozen Soil With Phase Transitions From Pre‐Melting Thin Film to Composite.&quot; <i>International Journal for Numerical and Analytical Methods in Geomechanics</i>, 49(14), 3214-3231.'
 ---
 
 <span style="font-weight: bold; font-size: 25px;">Abstract</span>
